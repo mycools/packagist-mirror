@@ -32,7 +32,7 @@ When creating your local copy the child mirror (you) adds a list of other mirror
 | Location        | Mirror      | Maintainer | Github | Sync |
 | ------|-----|-----|-----|-----|
 |Brazil|[packagist.com.br](https://packagist.com.br)|[Webysther](https://github.com/Webysther)|[main](https://github.com/Webysther/packagist-mirror)|Continuously|
-|Thailand|[packagist.mycools.in.th](https://packagist.mycools.in.th)|[Mycools](https://github.com/mycools)||Every 5 minutes|
+|Thailand|[packagist.mycools.in.th](https://packagist.mycools.in.th)|[Mycools](https://github.com/mycools)|fork|Every 5 minutes|
 |China|[php.cnpkg.org](https://php.cnpkg.org)|[Eagle Wu](https://github.com/wudi)|[fork](https://github.com/cnpkg/packagist-mirror)|Every minute|
 |China|[mirrors.aliyun.com](https://mirrors.aliyun.com/composer)|[Aliyun](https://mirrors.aliyun.com)||Every 5 minutes|
 |China|[packagist.mirrors.sjtug.sjtu.edu.cn](https://packagist.mirrors.sjtug.sjtu.edu.cn)|[Shanghai Jiao Tong University](https://github.com/sjtug)|[fork](https://github.com/sjtug/packagist-mirror)|Every hour|
