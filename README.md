@@ -17,9 +17,6 @@ This is repository make possible to you create a metadata mirror and keep in syn
 
 If you're using [PHP Composer](https://getcomposer.org/), commands like *create-project*, *require*, *update*, *remove* are often used. When those commands are executed, Composer will download information from the packages that are needed also from dependent packages. The number of json files downloaded depends on the complexity of the packages which are going to be used. The further you are from the location of the [packagist.org](packagist.org) server, the more time is needed to download json files. By using mirror, it will help save the time for downloading because the server location is closer.
 
-
-![Mirror creation](/resources/public/mirror-creation.gif)
-
 ## 🌎 Packagist public metadata mirrors around the world
 
 🛫 Amazing data mirrors used to download repositories metadata built using this [recommended repository](https://packagist.org/mirrors) or another:
